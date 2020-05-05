@@ -1,2 +1,2 @@
 # -Financial-Helper-
-Graduation Project 
+Faculty Graduation Project 
